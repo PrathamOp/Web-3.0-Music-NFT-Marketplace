@@ -1,4 +1,4 @@
-# NFT Music Player
+# Web 3.0 Music NFT Marketplace
 
 ## Technology Stack & Tools
 
